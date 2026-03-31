@@ -1,0 +1,3 @@
+- [{ 고퀄리티 ⚡ 개발 컨텐츠 }](https://www.goquality.dev/)
+- [토스 테크니컬 라이팅 가이드](https://technical-writing.dev/overview.html)
+- [[번역] 독학 프런트엔드 개발자들을 위한 프로그래밍 원칙-더 나은 코드를 작성하는 데 도움이 되는 실행 가능한 경험 법칙들](https://github.com/Jungle-12-303/some-tips.git)
